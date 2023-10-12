@@ -13,15 +13,12 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <h2 className={styles.subTitle}>
-            <span>Front-End Software Developer</span> and Project Manager.
+            <span>Front-End Software Engineer</span> and Project Manager.
           </h2>
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-            Nothing beats creating something that people love to use. I&apos;m passionate about building beautiful, intuitive, and accessible web applications and the people that use and build them.
-          </p>
-          <p className={styles.aboutCopy}>
-            If you&apos;re looking for a developer who can take your project from concept to completion, I&apos;d love to hear from you - I&apos;m here to help.
+            If you&apos;re looking for a developer who can take your project from concept to completion, I&apos;d love to hear from you.
           </p>
         </Reveal>
         <Reveal>

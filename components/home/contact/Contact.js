@@ -14,7 +14,7 @@ export const Contact = () => {
         </Reveal>
         <Reveal width="100%">
           <p className={styles.contactCopy}>
-            Send me an email if you want to connect! You can also find me on{" "}
+            If you need help with a project, are looking for a new developer for your team, or just want to say hi - send me an email! You can also find me on{" "}
             <Link
               href="https://www.linkedin.com/in/john-w-featherstone/"
               target="_blank"
