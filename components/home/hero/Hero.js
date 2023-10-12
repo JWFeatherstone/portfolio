@@ -18,7 +18,7 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-            If you&apos;re looking for a developer who can take your project from concept to completion, I&apos;d love to hear from you.
+            If you&apos;re looking for a developer who can take your project from concept to completion, let&apos;s connect.
           </p>
         </Reveal>
         <Reveal>
