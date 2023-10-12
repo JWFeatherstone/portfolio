@@ -33,7 +33,7 @@ const projects = [
         </p>
         <p>
           The tech stack uses React and Vite for the frotend, 
-          while I've been building the backend in Python/Django and Go simultaneously to better reinforce the concepts behind backend development 
+          while I&apos;ve been building the backend in Python/Django and Go simultaneously to better reinforce the concepts behind backend development 
           and to increase my exposure to both different languages and ORM and non-ORM database management. 
           Data is stored in Postgres and user authentication is handled through Firebase.
         </p>
@@ -41,7 +41,7 @@ const projects = [
           As a long-term community-oriented project, the most instructive part of this process
            - more so than new technologies - has been in planning and designing from day one for (relative) scale and maintainability.
           Having the opportunity to really be considerate about the architecture of the project, a cohesive design and component library,
-          and the end-to-end flow of data and users' experiences has greatly increased my appreciation for
+          and the end-to-end flow of data and users&apos; experiences has greatly increased my appreciation for
           the macro aspects of software development.
         </p>
       </>
@@ -70,7 +70,7 @@ const projects = [
         <p>
           Given the size of the team, the short time frame, and the new technologies we sought to integrate, 
           the most rewarding aspect of this project came from the opportunity to implement so many of the lessons 
-          I'd learned throughout Turing about working with remote, multidisciplinary teams - both as a developer and project manager. 
+          I&apos;d learned throughout Turing about working with remote, multidisciplinary teams - both as a developer and project manager. 
         </p>
         <p>
           Namely, coordinating with the backend team around the structure of the GraphQL queries and mutations reinforced the value of
@@ -92,9 +92,9 @@ const projects = [
     modalContent: (
       <>
         <p>
-          Using the Cornell Lab of Ornithology's eBird API, this application allows users to
+          Using the Cornell Lab of Ornithology&apos;s eBird API, this application allows users to
           track recent owl sightings in Colorado and to dig deeper into specific species to see
-          information on historical sightings and the birds' behavioral, physical, and habitat characteristics. 
+          information on historical sightings and the birds&apos; behavioral, physical, and habitat characteristics. 
           Users can track specific species to receive specialized notifications via the recent sightings map.
         </p>
         <p>
@@ -105,7 +105,7 @@ const projects = [
         <p>
           While necessarily simple in scope, the opportunity to emulate a real-world iterative development process
           with the help of Denver Audubon and Denver Field Ornithologists members has left a lasting impression
-           on my work as a frontend developer. And eBird remains the standard by which I judge my own code's documentation.
+           on my work as a frontend developer. And eBird remains the standard by which I judge my own code&apos;s documentation.
         </p>
       </>
     ),
@@ -120,14 +120,14 @@ const projects = [
       "A fitness tracking application allowing users to monitor and log their fitness and health data and see their latest running routes.",
     modalContent: (
       <>
-        <p>Sisphyus Fitness was a dashboard for users' health and fitness data. </p>
+        <p>Sisphyus Fitness was a dashboard for users&apos; health and fitness data. </p>
         <p>
           An early, vanilla JavaScript project built over the course of two weeks alongside a four-person team of frontend developers,
-          the primary intent behind this project was to practice using a test-driven development philosophy and workflow and to build on the team's
+          the primary intent behind this project was to practice using a test-driven development philosophy and workflow and to build on the team&apos;s
           experience designing and testing for accessibility.
         </p>
         <p>While an early project during my time at the Turing School, the thoughtfulness and intention
-           of my team's testing-first approach and their consideration from planning onward for universal user accessibility
+           of my team&apos;s testing-first approach and their consideration from planning onward for universal user accessibility
            has continued to inform the value I place as a developer in a considerate and inclusive approach to software development.
         </p>
       </>

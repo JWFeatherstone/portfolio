@@ -15,7 +15,7 @@ export const About = () => {
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
               Hey! I&apos;m John, a software engineer based in Denver, Colorado who 
               specializes in frontend development using the React framework. 
-              A former transportation planner for the State of Colorado's electrification, 
+              A former transportation planner for the State of Colorado&apos;s electrification, 
               climate change, and innovative mobility programs, my career has been driven by a 
               commitment to tackling the urgent challenges facing our communities and the environment. 
             </p>
@@ -28,12 +28,12 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              Outside of work, I love writing (I'm currently working on a fantasy novel for a rapidly-aging niece), baking, growing things, looking at birds, and just about anything that gets me outdoors.
+              Outside of work, I love writing (I&apos;m currently working on a fantasy novel for a rapidly-aging niece), baking, growing things, looking at birds, and just about anything that gets me outdoors.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              If you need a website designed and built for your small business - or if you're looking for a driven, relentlessly curious, and people-oriented junior developer to join your team - please don't hesitate to reach out. I'd love to hear from you.
+              If you need a website designed and built for your small business - or if you&apos;re looking for a driven, relentlessly curious, and people-oriented junior developer to join your team - please don&apos;t hesitate to reach out. I&apos;d love to hear from you.
             </p>
           </Reveal>
           <Reveal>
