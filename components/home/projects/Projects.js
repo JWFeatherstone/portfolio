@@ -18,6 +18,36 @@ export const Projects = () => {
 
 const projects = [
   {
+    title: "Recs",
+    imgSrc: "project-imgs/recs.png",
+    code: "https://github.com/JWFeatherstone/recs",
+    projectLink: "https://recs-ecru.vercel.app/",
+    tech: ["React", "NextJS", "TypeScript", "TailwindCSS", "Postgres", "AWS S3", "GoLang"],
+    description:
+      "A social media platform for sharing and discovering recommendations for books, movies, and music.",
+    modalContent: (
+      <>
+        <p>
+          As I&apos;ve gained more experience building out smaller, short-term projects and completing contract work for individual feature additions, I&apos;ve
+          found myself increasingly interested in the process of building with an explicit intention of scalability and expanding my knowledge of overall
+          systems design and architecture.
+        </p>
+        <p>
+          Recs is an ongoing prototyping project, in effect, that I&apos;ve been building out in my free time as a vehicle for thinking more consciously about
+          the overall structure of a fullstack application and the higher-order considerations that go into building something that isn&apos;t just functional,
+          but also performant and maintainable.
+        </p>
+        <p>
+          In many ways this continues to be a formative project for me as a result: solidifying my belief in the value of taking the time to plan and design,
+          explicitly document code - using TypeScript, JSDocs, documentation, and comments - and remain ever-conscious of the bigger picture. Questions - 
+          &ldquo;but how will this run?&rdquo;, &ldquo;how am I handling race conditions?&rdquo;, &ldquo;what if hundreds of users make a write request at once?&rdquo;, &ldquo;how can I limit the number of requests and refreshes I&apos;m making?&rdquo; - 
+          have been the driver for decisions such as implementing a queue system for write requests, memoizing feed and search data, caching as much data as possible,
+          and using cron jobs to help with everything from refreshing API tokens to creating smaller subsets of data for faster querying.
+        </p>
+      </>
+    ),
+  },
+  {
     title: "CoProject",
     imgSrc: "project-imgs/co-project.png",
     code: "https://github.com/JWFeatherstone/ProjectGo",
